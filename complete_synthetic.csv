@@ -1,0 +1,151 @@
+#1 String,#2 String,Quality
+Set a timer for 20 minutes.,Start a 20-minute timer.,1
+Begin a timer for 20 minutes.,Can you set a timer for 20 minutes?,1
+Please start a timer for 20 minutes.,I need a 20-minute timer.,1
+Activate a timer for 20 minutes.,Initiate a 20-minute timer.,1
+Turn on a timer for 20 minutes.,Start a countdown for 20 minutes.,1
+Would you start a timer for 20 minutes?,Launch a timer for 20 minutes.,1
+Could you set a 20-minute timer?,Put on a timer for 20 minutes.,1
+Get a timer going for 20 minutes.,Run a 20-minute timer.,1
+Make a 20-minute timer.,Kick off a 20-minute timer.,1
+Can you run a timer for 20 minutes?,Enable a 20-minute timer.,1
+Fire up a 20-minute timer.,I want a timer for 20 minutes.,1
+Schedule a timer for 20 minutes.,Please enable a 20-minute timer.,1
+Time me for 20 minutes.,Let‚Äôs time 20 minutes.,1
+Count down 20 minutes.,I need a countdown for 20 minutes.,1
+Can you time me for 20 minutes?,Begin counting down 20 minutes.,1
+Set a timer for 20 minutes.,Turn off the lights.,0
+Start a 20-minute timer.,What time is it now?,0
+Begin a timer for 20 minutes.,Cook dinner for the family.,0
+Please start a timer for 20 minutes.,How‚Äôs the weather today?,0
+Activate a timer for 20 minutes.,Send an email to John.,0
+Turn on a timer for 20 minutes.,Play some music.,0
+Would you start a timer for 20 minutes?,Check the news online.,0
+Could you set a 20-minute timer?,Wash the dishes.,0
+Get a timer going for 20 minutes.,Call a friend.,0
+Make a 20-minute timer.,Write a poem.,0
+Can you run a timer for 20 minutes?,Feed the dog.,0
+Fire up a 20-minute timer.,Read a book quietly.,0
+Schedule a timer for 20 minutes.,Drive to the store.,0
+Time me for 20 minutes.,Clean the room.,0
+Count down 20 minutes.,Watch a movie tonight.,0
+Play my party playlist.,Start my party playlist.,1
+Can you play my party playlist?,Please play my party playlist.,1
+Turn on my party playlist.,I want to listen to my party playlist.,1
+Play the party playlist now.,Begin my party playlist.,1
+Activate my party playlist.,Put on my party playlist.,1
+Can you start my party playlist?,Launch my party playlist.,1
+Get my party playlist going.,Start playing my party playlist.,1
+Queue up my party playlist.,Would you play my party playlist?,1
+Kick off my party playlist.,Let’s hear my party playlist.,1
+Turn up my party playlist.,Please start playing my party playlist.,1
+Run my party playlist.,Shuffle my party playlist.,1
+Play my party mix.,Play my playlist for the party.,1
+Get the party playlist started.,Put on some party music from my playlist.,1
+I need my party playlist now.,Let’s jam to my party playlist.,1
+Play my favorite party songs.,Time for my party playlist—play it!,1
+Play my party playlist.,Set a timer for 10 minutes.,0
+Start my party playlist.,Check the time now.,0
+Can you play my party playlist?,Turn off the lights.,0
+Please play my party playlist.,What’s the weather like?,0
+Turn on my party playlist.,Call my friend Sarah.,0
+I want to listen to my party playlist.,Open the news app.,0
+Play the party playlist now.,Cook dinner tonight.,0
+Begin my party playlist.,Send a text message.,0
+Activate my party playlist.,Stop the music.,0
+Put on my party playlist.,Read me a story.,0
+Can you start my party playlist?,Order a pizza.,0
+Get my party playlist going.,Clean the kitchen.,0
+Queue up my party playlist.,Drive to the park.,0
+Let’s hear my party playlist.,Turn down the volume.,0
+Play my favorite party songs.,Check my email.,0
+What’s the traffic like on my way to work?,Check the traffic to my workplace.,1
+Is there heavy traffic on my route to work?,How’s the traffic to work right now?,1
+Can you check the traffic for my commute to work?,Tell me the traffic conditions for my drive to work.,1
+Is the traffic clear on my way to work?,Give me an update on the traffic to work.,1
+Any traffic delays on my way to work?,What’s my commute looking like today?,1
+Are there any roadblocks on my way to work?,How busy is the traffic to my office?,1
+Please check the traffic for my work route.,Do I need to take an alternate route to work?,1
+Check for any traffic jams on my way to work.,How’s my commute to work today?,1
+Is my usual route to work congested?,Can you find the fastest way to work given the traffic?,1
+Are there any accidents affecting my commute to work?,Tell me the best route to work based on traffic.,1
+Is traffic moving smoothly to my workplace?,Do I need to leave earlier for work due to traffic?,1
+Show me live traffic updates for my work route.,What’s the estimated travel time to work now?,1
+Any construction work affecting my drive to work?,Will I hit rush hour traffic on my way to work?,1
+Find me the quickest way to work right now.,Is the highway clear for my commute to work?,1
+Should I take an alternate road to work?,Give me a live traffic report for my work commute.,1
+What’s the traffic like on my way to work?,Play some music.,0
+Check the traffic to my workplace.,Set an alarm for 7 AM.,0
+Is there heavy traffic on my route to work?,Turn on the TV.,0
+How’s the traffic to work right now?,What’s for dinner tonight?,0
+Can you check the traffic for my commute to work?,Call my boss.,0
+Tell me the traffic conditions for my drive to work.,Send a quick email.,0
+Is the traffic clear on my way to work?,Check the weather forecast.,0
+Give me an update on the traffic to work.,Start a 30-minute timer.,0
+Any traffic delays on my way to work?,Order lunch online.,0
+What’s my commute looking like today?,Read me the news.,0
+Are there any roadblocks on my way to work?,Turn off the lights.,0
+How busy is the traffic to my office?,Play my party playlist.,0
+Please check the traffic for my work route.,Water the plants.,0
+Check for any traffic jams on my way to work.,Book a meeting room.,0
+How’s my commute to work today?,Clean the desk.,0
+Add a meeting at 2 PM today.,Schedule a meeting for 2 PM today.,1
+Can you set up a meeting at 2 PM today?,Please add a meeting to my calendar for 2 PM today.,1
+Create a meeting at 2 PM today.,I need a meeting added at 2 PM today.,1
+Schedule an appointment at 2 PM today.,Book a meeting for me at 2 PM today.,1
+Set a calendar event for a meeting at 2 PM today.,Arrange a meeting at 2 PM today.,1
+Put a meeting on my schedule for 2 PM today.,Can you log a meeting at 2 PM today?,1
+I want to schedule a meeting at 2 PM today.,Mark a meeting in my calendar for 2 PM today.,1
+Block off 2 PM today for a meeting.,Remind me about a meeting at 2 PM today.,1
+Log a meeting at 2 PM today on my calendar.,Set a reminder for a meeting at 2 PM today.,1
+Reserve a slot for a meeting at 2 PM today.,Make an entry for a meeting at 2 PM today.,1
+Add a 2 PM meeting to my calendar today.,Schedule a discussion for 2 PM today.,1
+Can you add a meeting to my planner for 2 PM today?,Set an event titled 'Meeting' for 2 PM today.,1
+Book me for a meeting at 2 PM today.,Place a meeting in my agenda for 2 PM today.,1
+Register a meeting at 2 PM today in my schedule.,Log a work meeting at 2 PM today.,1
+Ensure I have a meeting scheduled at 2 PM today.,Arrange a call or meeting at 2 PM today.,1
+Add a meeting at 2 PM today.,Play my favorite song.,0
+Schedule a meeting for 2 PM today.,Check the traffic now.,0
+Can you set up a meeting at 2 PM today?,Turn off the alarm.,0
+Please add a meeting to my calendar for 2 PM today.,What’s the weather like?,0
+Create a meeting at 2 PM today.,Send a text to Jane.,0
+I need a meeting added at 2 PM today.,Start a 15-minute timer.,0
+Schedule an appointment at 2 PM today.,Order coffee online.,0
+Book a meeting for me at 2 PM today.,Play my party playlist.,0
+Set a calendar event for a meeting at 2 PM today.,Read me a book.,0
+Arrange a meeting at 2 PM today.,Clean the room.,0
+Put a meeting on my schedule for 2 PM today.,Call my mom.,0
+Can you log a meeting at 2 PM today?,Check my email.,0
+I want to schedule a meeting at 2 PM today.,Turn on the lights.,0
+Mark a meeting in my calendar for 2 PM today.,Cook dinner tonight.,0
+Block off 2 PM today for a meeting.,Find a nearby restaurant.,0
+What's the weather like today?,Can you check the weather for me?,1
+Tell me the weather forecast.,How's the weather right now?,1
+Is it going to rain today?,Give me the weather update.,1
+What's the temperature outside?,Check today's weather conditions.,1
+Will it be sunny today?,Do I need an umbrella today?,1
+How's the weather looking for today?,What’s the forecast for today?,1
+Tell me the current weather.,Is it cold outside?,1
+What's the weather like in my city?,Check the weather for this evening.,1
+How warm is it outside?,Do I need a jacket today?,1
+Give me the latest weather report.,What’s the high and low temperature for today?,1
+Is there a chance of snow today?,Will it be windy today?,1
+How’s the weather tomorrow?,What’s the weather like this weekend?,1
+Is it going to be hot today?,Do I need sunglasses today?,1
+Will there be thunderstorms today?,How humid is it outside?,1
+Check the weather for my location.,Give me a weather update for the week.,1
+What's the weather like today?,Set a timer for 5 minutes.,0
+Can you check the weather for me?,Play some jazz music.,0
+Tell me the weather forecast.,Add a meeting at 3 PM.,0
+How's the weather right now?,Turn off the lights.,0
+Is it going to rain today?,Send a message to Tom.,0
+Give me the weather update.,Start my party playlist.,0
+What's the temperature outside?,Order a pizza now.,0
+Check today's weather conditions.,Call my sister.,0
+Will it be sunny today?,Clean the kitchen.,0
+Do I need an umbrella today?,Read me a story.,0
+How's the weather looking for today?,Check the traffic to work.,0
+Tell me the current weather.,Cook dinner tonight.,0
+What's the weather like in my city?,Turn on the TV.,0
+How warm is it outside?,Book a flight online.,0
+Give me the latest weather report.,Water the plants.,0

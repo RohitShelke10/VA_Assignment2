@@ -1,0 +1,11 @@
+kagglehub
+pandas
+datasets
+numpy
+nltk
+scikit-learn
+matplotlib
+sentence-transformers
+transformers[torch]
+torch
+accelerate
